@@ -1,0 +1,18 @@
+.logo{
+    width: 5rem;
+    height: 4rem;
+}
+.navbar{
+    background-color: black !important;
+   
+}
+.navbar-toggler{
+    color: white !important;
+  
+}
+nav,main,footer{
+    grid-column: 18rem;
+}
+.img-fluid{
+    text-align: center;
+}
